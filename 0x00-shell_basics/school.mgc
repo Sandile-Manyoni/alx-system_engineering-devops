@@ -1,3 +1,2 @@
 0 string SCHOOL School data
-!:mime file/School
-compile
+!:mime School
